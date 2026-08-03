@@ -1,2 +1,2 @@
-# Git Tutorial
+# Feature B
 # Git Merge Conflict Demo
