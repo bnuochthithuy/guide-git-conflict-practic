@@ -1,3 +1,3 @@
- # Environment: Staging
+ # Environment: Development
  # Environment: Production
  # Resolve conflict
