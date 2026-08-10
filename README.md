@@ -1,2 +1,2 @@
- # Environment: Staging
+ # Environment: Stagings
  # Resolve conflict
